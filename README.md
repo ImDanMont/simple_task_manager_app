@@ -47,9 +47,6 @@ proyecto hexagonal/
 
 - **Node.js** >= 18
 - **PostgreSQL** instalado y en ejecución
-- Base de datos: `taskmanagerdb`
-- Usuario: `postgre` (o `postgres`)
-- Contraseña: `daniel2025`
 
 > **Nota:** La tabla `tasks` se crea automáticamente en PostgreSQL al iniciar el backend si aún no existe.
 
